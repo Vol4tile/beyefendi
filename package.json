@@ -1,6 +1,6 @@
 {
   "name": "beyefendi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The goal is to offer a tool for identifying and handling potentially inappropriate language within textual content.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -15,9 +15,9 @@
   },
   "keywords": [
     "bad words",
-    "bad language",
+    "bad language"
    ],
-  "author": "",
+ 
   "license": "MIT",
   "dependencies": {
     "@types/node": "^20.10.0",
