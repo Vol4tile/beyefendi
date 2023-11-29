@@ -1,18 +1,24 @@
 {
   "name": "beyefendi",
   "version": "1.0.0",
-  "description": "",
+  "description": "The goal is to offer a tool for identifying and handling potentially inappropriate language within textual content.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+ "author": "İlkan Erdoğan (https://github.com/Vol4tile)",
+  "homepage": "https://github.com/Vol4tile/beyefendi",
+ "repository": "Vol4tile/beyefendi",
   "files": [
     "/dist"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "bad words",
+    "bad language",
+   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@types/node": "^20.10.0",
     "typescript": "^5.3.2"
