@@ -12,9 +12,9 @@ The goal is to offer a tool for identifying and handling potentially inappropria
 
 ## Installation
 
-    ```bash
+    
     npm i beyefendi
-    ```
+    
 
 ## Usage
 
