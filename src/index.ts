@@ -1,4 +1,3 @@
-
 import { defaultWords } from "./defaultWords";
 
 interface CheckFillProps {
